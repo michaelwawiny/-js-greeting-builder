@@ -34,3 +34,8 @@ Good morning, Ava Stone
 Good evening, Noah Kim
 
 Good afternoon, Mina Patel
+
+## Live Demo
+
+Visit the project:
+https://michaelwawiny.github.io/-js-greeting-builder/
