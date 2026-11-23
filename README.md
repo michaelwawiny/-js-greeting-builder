@@ -1,41 +1,10 @@
-# Greeting Builder
+## Project References
 
-A beginner JavaScript project that generates personalized greetings using reusable functions.
+Roadmap.sh Project:
+https://roadmap.sh/projects/js-greeting-builder
 
-## Features
-
-- Formats first and last names.
-- Generates greetings based on time of day.
-- Combines functions to create complete greetings.
-
-## Technologies
-
-- JavaScript
-- HTML
-
-## Functions
-
-1. formatName(firstName, lastName)
-2. getGreeting(timeOfDay)
-3. createGreeting(firstName, lastName, timeOfDay)
-
-## How to Run
-
-1. Clone this repository.
-2. Open the project folder.
-3. Run:
-
-   node script.js
-
-## Sample Output
-
-Good morning, Ava Stone
-
-Good evening, Noah Kim
-
-Good afternoon, Mina Patel
-
-## Live Demo
-
-Visit the project:
+Live Demo:
 https://michaelwawiny.github.io/-js-greeting-builder/
+
+GitHub Repository:
+https://github.com/michaelwawiny/-js-greeting-builder
